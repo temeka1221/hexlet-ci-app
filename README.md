@@ -1,6 +1,6 @@
 ## Badges
 
-[![node-setup-check.yml](https://github.com/temeka1221/hexlet-ci-app/actions/workflows/node-setup-check.yml/badge.svg)](https://github.com/temeka1221/hexlet-ci-app/actions/workflows/node-setup-check.yml)
+[![node-setup-check.yml](https://github.com/temeka1221/hexlet-ci-app/actions/workflows/node-setup-check.yml/badge.svg?branch=forked)](https://github.com/temeka1221/hexlet-ci-app/actions/workflows/node-setup-check.yml) 
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
